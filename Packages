@@ -11,3 +11,30 @@ Section: Tweaks, Theme
 Description: An awesome mobile substrate tweak
 Author: NTHNPLKS
 Name: XXXTentacion Heart Zeppelin Theme
+Package: com.nthnplks.xxx
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: NTHNPLKS
+Filename: /com.nthnplks.xxx.deb
+Size: 7534
+MD5sum: b8db324c68afd18fbc546ac04b3dc72e
+SHA1: 33fc0623458f6b055ee8fc58c04630ede7f482eb
+SHA256: 92cb6ebcb3266576cfae2e59247fd844644d73cf43e48ae2f56983b0a762f48b
+Section: Theme
+Description: XXXTentacion Broken Hearts Zeppelin theme
+Author: NTHNPLKS
+Name: XXXTentacion Broken Hearts
+
+Package: com.nthnplks.xxx
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: NTHNPLKS
+Filename: /com.nthnplks.xxx.deb
+Size: 7534
+MD5sum: b8db324c68afd18fbc546ac04b3dc72e
+SHA1: 33fc0623458f6b055ee8fc58c04630ede7f482eb
+SHA256: 92cb6ebcb3266576cfae2e59247fd844644d73cf43e48ae2f56983b0a762f48b
+Section: Theme
+Description: XXXTentacion Broken Hearts Zeppelin theme
+Author: NTHNPLKS
+Name: XXXTentacion Broken Hearts
